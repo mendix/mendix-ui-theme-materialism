@@ -57,7 +57,8 @@
 		}
 	}
 }
-.region-sidebar {
+.region-sidebar,
+.layout-sidebar-responsive .region-sidebar-fixed {
 	background-color: $color-navsidebar-bg;
 	border-right: 1px solid $gray-primary;
 	box-shadow: 0 0 4px rgba(0,0,0,.14),2px 4px 8px rgba(0,0,0,.28);

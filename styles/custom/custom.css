@@ -554,8 +554,9 @@ table.mx-table > tbody > tr {
   background-color: #004483;
 }
 
-/* line 60, layouts/_base.scss */
-.region-sidebar {
+/* line 61, layouts/_base.scss */
+.region-sidebar,
+.layout-sidebar-responsive .region-sidebar-fixed {
   background-color: white;
   border-right: 1px solid #d8d8d8;
   box-shadow: 0 0 4px rgba(0, 0, 0, 0.14), 2px 4px 8px rgba(0, 0, 0, 0.28);
@@ -570,12 +571,13 @@ table.mx-table > tbody > tr {
   -o-transition: -o-transform .35s;
   transition: transform .35s;
 }
-/* line 74, layouts/_base.scss */
-.region-sidebar > .mx-layoutcontainer-wrapper {
+/* line 75, layouts/_base.scss */
+.region-sidebar > .mx-layoutcontainer-wrapper,
+.layout-sidebar-responsive .region-sidebar-fixed > .mx-layoutcontainer-wrapper {
   padding: 0;
 }
 
-/* line 79, layouts/_base.scss */
+/* line 80, layouts/_base.scss */
 .profile-phone .region-sidebar {
   transform: none;
   box-shadow: none;
@@ -588,13 +590,13 @@ table.mx-table > tbody > tr {
 *
 * Used to style your app brand and logo
 */
-/* line 99, layouts/_base.scss */
+/* line 100, layouts/_base.scss */
 .navbar-brand {
   min-height: 70px;
   padding: 0;
   line-height: 70px;
 }
-/* line 106, layouts/_base.scss */
+/* line 107, layouts/_base.scss */
 .navbar-brand a {
   color: white;
   font-size: 20px;
