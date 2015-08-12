@@ -1,14 +1,8 @@
-/*
-* Mendix Documentation
-* Special styles for presenting components
-*/
+/* ==========================================================================
+   Navigation
 
-
-/*
-* Navigation
-*
-* Default Mendix Navigation Bar
-*/
+   Default Mendix Navigation Bar
+========================================================================== */
 .mx-navbar {
 
 	ul.nav { 
@@ -85,11 +79,11 @@
 }
 
 
-/*
-* Navigation
-*
-* Default Mendix Navigation Tree
-*/
+/* ==========================================================================
+   Navigation
+
+   Default Mendix Navigation Tree
+========================================================================== */
 .mx-navigationtree {
 	background-color: $color-navsidebar-bg;
 
@@ -150,11 +144,11 @@
 }
 
 
-/*
-* Navigation
-*
-* Default Mendix Simple Menu Bar
-*/
+/* ==========================================================================
+   Navigation
+
+   Default Mendix Simple Menu Bar
+========================================================================== */
 .mx-menubar {
 	background-color: #2b3d51;
 	ul.mx-menubar-list {

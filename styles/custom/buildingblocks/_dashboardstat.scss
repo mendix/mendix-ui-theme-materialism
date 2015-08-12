@@ -1,41 +1,21 @@
-/*
-* Mendix Documentation
-* Special styles for presenting profilecard building block
-*/
+/* ==========================================================================
+   Dashboard Card
+========================================================================== */
+.dashboardcard {
 
-
-/*
-* Dashboard Stats
-*
-* Used in dashboard
-*/
-
-.dashboardstat {
-
-	@media (max-width: $screen-md) {
-		
-	}
-
-	.dashboardstat-left,
-	.dashboardstat-right {
-
-	}
 }
-.dashboardstat-icon {
-
-	@media (max-width: $screen-md) {
-		
-	}
+.dashboardcard-title {
+	
 }
-.dashboardstat-title {
+.dashboardcard-subtitle {
 
-	@media (max-width: $screen-md) {
-		
-	}
 }
-.dashboardstat-number {
+.dashboardcard-link {
+	
+}
 
-	@media (max-width: $screen-md) {
-		
+@media only screen and (max-width: 960px) {
+	.dashboardcard {
+
 	}
 }

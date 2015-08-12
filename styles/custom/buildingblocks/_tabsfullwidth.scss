@@ -1,16 +1,7 @@
-/*
-* Mendix Documentation
-* Special styles for presenting profilecard building block
-*/
-
-
-/*
-* Tabs full width
-*
-* 
-*/
-
-.profile-desktop .tabsfullwidth {
+/* ==========================================================================
+   Tabs full width
+========================================================================== */
+.tabsfullwidth {
 	
 	> .mx-tabcontainer-tabs {
 		background-color: $color-layout-bg-secondary;
