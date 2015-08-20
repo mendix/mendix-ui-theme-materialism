@@ -290,27 +290,27 @@ textarea.form-control, textarea.readonly-input {
 }
 
 .alert-success {
-  border-color: shade(#4CAF50, 26);
-  background-color: tint(#4CAF50, 80);
-  color: shade(#4CAF50, 40);
+  border-color: #38823b;
+  background-color: #dbefdc;
+  color: #2e6930;
 }
 
 .alert-info {
-  border-color: shade(#2095f2, 26);
-  background-color: tint(#2095f2, 80);
-  color: shade(#2095f2, 40);
+  border-color: #186eb3;
+  background-color: #d2eafc;
+  color: #135991;
 }
 
 .alert-warning {
-  border-color: shade(#fe9700, 26);
-  background-color: tint(#fe9700, 80);
-  color: shade(#fe9700, 40);
+  border-color: #bc7000;
+  background-color: #ffeacc;
+  color: #985b00;
 }
 
 .alert-danger {
-  border-color: shade(#D9534F, 26);
-  background-color: tint(#D9534F, 80);
-  color: shade(#D9534F, 40);
+  border-color: #a13d3a;
+  background-color: #f7dddc;
+  color: #82322f;
 }
 
 .has-error .alert {
@@ -336,19 +336,19 @@ textarea.form-control, textarea.readonly-input {
 }
 
 .background-default-darker {
-  background-color: shade(#FFF, 40) !important;
+  background-color: #999999 !important;
 }
 
 .background-default-dark {
-  background-color: shade(#FFF, 26) !important;
+  background-color: #bdbdbd !important;
 }
 
 .background-default-light {
-  background-color: tint(#FFF, 40) !important;
+  background-color: white !important;
 }
 
 .background-default-lighter {
-  background-color: tint(#FFF, 80) !important;
+  background-color: white !important;
 }
 
 .background-inverse {
@@ -356,19 +356,19 @@ textarea.form-control, textarea.readonly-input {
 }
 
 .background-inverse-darker {
-  background-color: shade(#263238, 40) !important;
+  background-color: #171e22 !important;
 }
 
 .background-inverse-dark {
-  background-color: shade(#263238, 26) !important;
+  background-color: #1c2529 !important;
 }
 
 .background-inverse-light {
-  background-color: tint(#263238, 40) !important;
+  background-color: #7d8488 !important;
 }
 
 .background-inverse-lighter {
-  background-color: tint(#263238, 80) !important;
+  background-color: #d4d6d7 !important;
 }
 
 .background-primary {
@@ -376,19 +376,19 @@ textarea.form-control, textarea.readonly-input {
 }
 
 .background-primary-darker {
-  background-color: shade(#3f51b5, 40) !important;
+  background-color: #26316d !important;
 }
 
 .background-primary-dark {
-  background-color: shade(#3f51b5, 26) !important;
+  background-color: #2f3c86 !important;
 }
 
 .background-primary-light {
-  background-color: tint(#3f51b5, 40) !important;
+  background-color: #8c97d3 !important;
 }
 
 .background-primary-lighter {
-  background-color: tint(#3f51b5, 80) !important;
+  background-color: #d9dcf0 !important;
 }
 
 .background-info {
@@ -396,19 +396,19 @@ textarea.form-control, textarea.readonly-input {
 }
 
 .background-info-darker {
-  background-color: shade(#2095f2, 40) !important;
+  background-color: #135991 !important;
 }
 
 .background-info-dark {
-  background-color: shade(#2095f2, 26) !important;
+  background-color: #186eb3 !important;
 }
 
 .background-info-light {
-  background-color: tint(#2095f2, 40) !important;
+  background-color: #79bff7 !important;
 }
 
 .background-info-lighter {
-  background-color: tint(#2095f2, 80) !important;
+  background-color: #d2eafc !important;
 }
 
 .background-success {
@@ -416,19 +416,19 @@ textarea.form-control, textarea.readonly-input {
 }
 
 .background-success-darker {
-  background-color: shade(#4CAF50, 40) !important;
+  background-color: #2e6930 !important;
 }
 
 .background-success-dark {
-  background-color: shade(#4CAF50, 26) !important;
+  background-color: #38823b !important;
 }
 
 .background-success-light {
-  background-color: tint(#4CAF50, 40) !important;
+  background-color: #94cf96 !important;
 }
 
 .background-success-lighter {
-  background-color: tint(#4CAF50, 80) !important;
+  background-color: #dbefdc !important;
 }
 
 .background-warning {
@@ -436,19 +436,19 @@ textarea.form-control, textarea.readonly-input {
 }
 
 .background-warning-darker {
-  background-color: shade(#fe9700, 40) !important;
+  background-color: #985b00 !important;
 }
 
 .background-warning-dark {
-  background-color: shade(#fe9700, 26) !important;
+  background-color: #bc7000 !important;
 }
 
 .background-warning-light {
-  background-color: tint(#fe9700, 40) !important;
+  background-color: #fec166 !important;
 }
 
 .background-warning-lighter {
-  background-color: tint(#fe9700, 80) !important;
+  background-color: #ffeacc !important;
 }
 
 .background-danger {
@@ -456,19 +456,19 @@ textarea.form-control, textarea.readonly-input {
 }
 
 .background-danger-darker {
-  background-color: shade(#D9534F, 40) !important;
+  background-color: #82322f !important;
 }
 
 .background-danger-dark {
-  background-color: shade(#D9534F, 26) !important;
+  background-color: #a13d3a !important;
 }
 
 .background-danger-light {
-  background-color: tint(#D9534F, 40) !important;
+  background-color: #e89895 !important;
 }
 
 .background-danger-lighter {
-  background-color: tint(#D9534F, 80) !important;
+  background-color: #f7dddc !important;
 }
 
 /* ==========================================================================
@@ -1013,10 +1013,10 @@ textarea.form-control, textarea.readonly-input {
    Default Mendix Datagrid Widget with hover
 ========================================================================== */
 .datagrid-hover.mx-datagrid .mx-datagrid-body-table .mx-datagrid-body tr:hover td, .mx-datagrid.multilevel-grid .mx-datagrid-body-table .mx-datagrid-body tr:hover td {
-  background-color: shade(tint(#3f51b5, 80), 3) !important;
+  background-color: #d2d5e9 !important;
 }
 .datagrid-hover.mx-datagrid .mx-datagrid-body-table .mx-datagrid-body tr.selected:hover td, .mx-datagrid.multilevel-grid .mx-datagrid-body-table .mx-datagrid-body tr.selected:hover td {
-  background-color: shade(tint(#3f51b5, 80), 3) !important;
+  background-color: #d2d5e9 !important;
 }
 
 /* ==========================================================================
@@ -1597,28 +1597,28 @@ textarea.form-control, textarea.readonly-input {
 }
 .mx-groupbox.groupbox-callout-info > .mx-groupbox-header,
 .mx-groupbox.groupbox-callout-info > .mx-groupbox-body {
-  background-color: tint(#2095f2, 80);
+  background-color: #d2eafc;
 }
 .mx-groupbox.groupbox-callout-info > .mx-groupbox-header {
   color: #2095f2;
 }
 .mx-groupbox.groupbox-callout-success > .mx-groupbox-header,
 .mx-groupbox.groupbox-callout-success > .mx-groupbox-body {
-  background-color: tint(#4CAF50, 80);
+  background-color: #dbefdc;
 }
 .mx-groupbox.groupbox-callout-success > .mx-groupbox-header {
   color: #4CAF50;
 }
 .mx-groupbox.groupbox-callout-warning > .mx-groupbox-header,
 .mx-groupbox.groupbox-callout-warning > .mx-groupbox-body {
-  background-color: tint(#fe9700, 80);
+  background-color: #ffeacc;
 }
 .mx-groupbox.groupbox-callout-warning > .mx-groupbox-header {
   color: #fe9700;
 }
 .mx-groupbox.groupbox-callout-danger > .mx-groupbox-header,
 .mx-groupbox.groupbox-callout-danger > .mx-groupbox-body {
-  background-color: tint(#D9534F, 80);
+  background-color: #f7dddc;
 }
 .mx-groupbox.groupbox-callout-danger > .mx-groupbox-header {
   color: #D9534F;
@@ -1827,7 +1827,7 @@ img.img-auto,
   background-color: #3f51b5 !important;
 }
 .mx-listview .mx-listview-item.selected:hover {
-  background-color: shade(tint(#3f51b5, 80), 3) !important;
+  background-color: #d2d5e9 !important;
 }
 .mx-listview .mx-listview-item:nth-child(2n+1) {
   background-color: #FFF;
@@ -1843,7 +1843,7 @@ img.img-auto,
    Default Mendix Listview Widget with hover
 ========================================================================== */
 .listview-hover.mx-listview .mx-listview-item:hover, .mx-listview.multilevel-list .mx-listview-item:hover, .listview-hover.mx-listview .mx-listview-item:active, .mx-listview.multilevel-list .mx-listview-item:active {
-  background-color: shade(tint(#3f51b5, 80), 3) !important;
+  background-color: #d2d5e9 !important;
 }
 
 /* ==========================================================================
@@ -2722,13 +2722,13 @@ table.table-fixed {
    Default Mendix Templategrid Widget Hover
 ========================================================================== */
 .templategrid-hover.mx-templategrid .mx-templategrid-item:hover {
-  background-color: shade(tint(#3f51b5, 80), 3) !important;
+  background-color: #d2d5e9 !important;
 }
 .templategrid-hover.mx-templategrid .mx-templategrid-item.selected {
   background-color: #3f51b5 !important;
 }
 .templategrid-hover.mx-templategrid .mx-templategrid-item.selected:hover {
-  background-color: shade(tint(#3f51b5, 80), 3) !important;
+  background-color: #d2d5e9 !important;
 }
 
 /* ==========================================================================
@@ -4164,5 +4164,3 @@ body .mx-header .btn-image.glyphicon {
 .navlayout-topbar .region-topbar .mx-navbar ul.nav > li.mx-navbar-item > a {
   padding: 30px;
 }
-
-/*# sourceMappingURL=lib.css.map */
