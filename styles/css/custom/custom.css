@@ -466,13 +466,6 @@ h1, h2, h3, h4, h5, h6,
   min-height: 70px;
   border-style: none;
   box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.4);
-  transform-style: preserve-3d;
-  -webkit-transform: translate3d(0, 0, 0);
-  transform: translate3d(0, 0, 0);
-  -webkit-transition: -webkit-transform .35s;
-  -moz-transition: -moz-transform .35s;
-  -o-transition: -o-transform .35s;
-  transition: transform .35s;
 }
 .region-topbar > .mx-layoutcontainer-wrapper {
   padding: 0;
@@ -509,17 +502,15 @@ h1, h2, h3, h4, h5, h6,
   -webkit-transition: all .35s ease 0s;
   -o-transition: all .35s ease 0s;
   transition: all .35s ease 0s;
-  transform-style: preserve-3d;
-  -webkit-transform: translate3d(0, 0, 0);
-  transform: translate3d(0, 0, 0);
-  -webkit-transition: -webkit-transform .35s;
-  -moz-transition: -moz-transform .35s;
-  -o-transition: -o-transform .35s;
-  transition: transform .35s;
 }
 .region-sidebar > .mx-layoutcontainer-wrapper,
 .layout-sidebar-responsive .region-sidebar-fixed > .mx-layoutcontainer-wrapper {
   padding: 0;
+}
+
+.mx-scrollcontainer-move-in {
+  border-right: 1px solid #D8D8D8;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.14), 2px 4px 8px rgba(0, 0, 0, 0.28);
 }
 
 .profile-phone .region-sidebar {
