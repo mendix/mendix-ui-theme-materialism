@@ -575,18 +575,18 @@ body .mx-header .mx-header-left .mx-link a {
    Special styles for presenting Page Template Dashboard
 ========================================================================== */
 .page-dashboard {
-  background-color: #E4EDEF;
+  /* Styles here */
 }
 .page-dashboard .chartjs-node {
-  margin-top: 30px;
+  /* Styles here */
 }
 
 .page-dashboard-default .card {
-  min-height: 345px;
+  /* Styles here */
 }
 
 .page-dashboard-mytasks .card {
-  min-height: 320px;
+  /* Styles here */
 }
 
 .page-dashboard-actions {
@@ -650,7 +650,7 @@ body .mx-header .mx-header-left .mx-link a {
   padding-bottom: 20px;
 }
 .page-tabs .tabsfullwidth {
-  background-color: #E4EDEF;
+  /* Styles here */
 }
 
 .page-tabs-default {
@@ -661,7 +661,7 @@ body .mx-header .mx-header-left .mx-link a {
   /* Styles here */
 }
 .page-tabs-fullwidth .pageheader.pageheader-fullwidth {
-  border-style: none;
+  /* Styles here */
 }
 
 /* ==========================================================================
@@ -706,7 +706,7 @@ body .mx-header .mx-header-left .mx-link a {
    Special styles for presenting Page Template Phone
 ========================================================================== */
 .phone-page-dashboard {
-  background-color: #E4EDEF;
+  /* Styles here */
 }
 
 .phone-page-dashboard-default {
@@ -754,7 +754,7 @@ body .mx-header .mx-header-left .mx-link a {
    Special styles for presenting Page Template Tablet Dashboard
 ========================================================================== */
 .tablet-page-dashboard {
-  background-color: #E4EDEF;
+  /* Styles here */
 }
 
 .tablet-page-dashboard-default {

@@ -80,7 +80,7 @@
    Default Mendix Navigation Tree
 ========================================================================== */
 .mx-navigationtree {
-	background-color: $color-navsidebar-bg;
+	background-color: $navsidebar-bg;
 	// Navigation item
 	.navbar-inner ul {
 		/* Styles here */
@@ -155,11 +155,11 @@
 			&:hover a,
 			&:focus a,
 			&.active a {
-				color: $color-text-white;
+				color: #FFF;
 				background-color: #344a62;
 			}
 			&.active a {
-				color: $color-text-white;
+				color: #FFF;
 				background-color: #344a62;
             }
 		}

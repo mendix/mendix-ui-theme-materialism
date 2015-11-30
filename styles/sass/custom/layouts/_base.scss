@@ -4,7 +4,7 @@
    Used for navigation layouts
 ========================================================================== */
 .region-topbar {
-	min-height: $minimalheight-topbar;
+	min-height: $topbar-minimalheight;
 	border-style: none;
 	box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.40);
 	> .mx-layoutcontainer-wrapper {
@@ -51,7 +51,7 @@
 }
 .region-sidebar,
 .layout-sidebar-responsive .region-sidebar-fixed {
-	background-color: $color-navsidebar-bg;
+	background-color: $navsidebar-bg;
 	border-right: 1px solid $gray-primary;
 	box-shadow: 0 0 4px rgba(0,0,0,.14),2px 4px 8px rgba(0,0,0,.28);
 	-webkit-transition: all .35s ease 0s;
