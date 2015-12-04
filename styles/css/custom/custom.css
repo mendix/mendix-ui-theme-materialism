@@ -471,8 +471,6 @@ h1, h2, h3, h4, h5, h6,
   padding: 0;
 }
 .region-topbar .toggle-btn {
-  padding: 5px 10px;
-  font-size: 14px;
   color: #FFF;
   border-color: #FFF;
 }
